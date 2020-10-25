@@ -1,0 +1,16 @@
+[
+{
+  "modid": "playerstorage",
+  "name": "playerstorage",
+  "description": "Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrRiegel", "resinate", "Dalethium"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["LimeLib"]
+}
+]

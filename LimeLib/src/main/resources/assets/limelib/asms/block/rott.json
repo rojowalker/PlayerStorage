@@ -1,0 +1,13 @@
+{
+    "states" : ["normal"], 
+    "transitions" : {
+        
+    }, 
+    "start_state" : "normal", 
+    "clips" : {
+        "normal" : ["apply", "limelib:block/rott@clip1", "#ct"]
+    }, 
+    "parameters" : {
+        "ct" : ["+/", "#trigger",4]
+    }
+}

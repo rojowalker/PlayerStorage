@@ -1,0 +1,73 @@
+{
+    "forge_marker" : 1, 
+    "defaults" : {
+        "model" : "cube", 
+        "textures" : {
+            "particle" : "limelib:blocks/zero", 
+            "up" : "limelib:blocks/zero", 
+            "down" : "limelib:blocks/zero", 
+            "north" : "limelib:blocks/zero", 
+            "east" : "limelib:blocks/zero", 
+            "south" : "limelib:blocks/zero", 
+            "west" : "limelib:blocks/zero"
+        }
+    }, 
+    "variants" : {
+        "normal" : [{
+                
+            }],
+        "up" : {
+            "true" : {
+                "textures" : {
+                    "north" : "limelib:blocks/one", 
+                    "east" : "limelib:blocks/one", 
+                    "south" : "limelib:blocks/one", 
+                    "west" : "limelib:blocks/one"
+                }
+            }, 
+            "false" : {
+                
+            }
+        }, 
+        "down" : {
+            "true" : {
+                
+            }, 
+            "false" : {
+                
+            }
+        }, 
+        "north" : {
+            "true" : {
+                
+            }, 
+            "false" : {
+                
+            }
+        }, 
+        "east" : {
+            "true" : {
+                
+            }, 
+            "false" : {
+                
+            }
+        }, 
+        "south" : {
+            "true" : {
+                
+            }, 
+            "false" : {
+                
+            }
+        }, 
+        "west" : {
+            "true" : {
+                
+            }, 
+            "false" : {
+                
+            }
+        }
+    }
+}
